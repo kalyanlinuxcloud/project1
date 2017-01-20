@@ -1,8 +1,8 @@
 #!/bin/bash
 
-for File in *
+#for File in *
 
-do
+#do
 
 #if [ -f $File ] ; then
 #	if [ -r $File ] ; then
@@ -23,5 +23,5 @@ if [ -f $File ] ; then
 fi
 
 
-done
+#done
 
